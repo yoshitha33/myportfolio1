@@ -11,6 +11,7 @@ const Projects = () => {
   const bgColor = useColorModeValue("gray.100", "gray.900");
   const cardBg = useColorModeValue("blue.200", "blue.200");
   const textColor = useColorModeValue("gray.800", "gray.900");
+  
   const linkColor = useColorModeValue("blue.600", "blue.700");
 
   return (
