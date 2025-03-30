@@ -4,7 +4,7 @@ const projectData = [
   { title: "Micro Mart", description: "An online platform for buying and selling products for small and micro business.",image:"https://co-well.vn/wp-content/uploads/2019/11/shooping-cart-img.jpg"},
   { title: "IDcard Generator", description: "A real-time chat application for seamless communication.", link: "https://id-card-maker-xc6k.vercel.app/" ,image:"/Yoshitha.png"}, // No link for this project
 
-  { title: "MYPortfolio ", description: "A personal portfolio to showcase projects and skills.", image:"https://www.hostinger.com/tutorials/wp-content/uploads/sites/2/2021/08/how-to-make-an-online-portfolio.png"}
+  { title: "MYPortfolio ", description: "A personal portfolio to showcase projects and skills.", image:"https://www.hostinger.com/tutorials/wp-content/uploads/sites/2/2021/08/how-to-make-an-online-portfolio.png", link: "https://github.com/yoshitha33/MyPortfolio"}
 ];
 
 const Projects = () => {
